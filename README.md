@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan1329&label=Profile%20views&color=0e75b6&style=flat" alt="gihan1329" /> </p>
 
-- 🌱 I’m currently learning **Android ,JavaScript**
+- 🌱 I’m currently learning **JavaScript , React-Native**
 
-- 💬 Ask me about **Java , C++, Python , SQL , PHP , HTML**
+- 💬 Ask me about **Java , C++, Python , SQL , PHP , HTML, CSS , Android**
 
 - 📫 How to reach me **Gihanbandara999@gmail.com**
 
