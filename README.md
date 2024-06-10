@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React , JavaScript , React-Native**
 
-- 📝 I regularly write articles on <a href ='https://medium.com/@gihanbandara999](https://medium.com/@gihanbandara999'>Click Here</a>
+- 📝 I regularly write articles on <a href ='https://medium.com/@gihanbandara999'>Click Here</a>
 
 - 💬 Ask me about **Java ,C++, Python , SQL , PHP , HTML, CSS ,JavaScript**
 
