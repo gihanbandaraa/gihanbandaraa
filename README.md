@@ -33,7 +33,7 @@
 <a href="https://app.daily.dev/gihanpasi"><img src="https://api.daily.dev/devcards/v2/96vpVOkr4fgXW2ifNeWiu.png?r=yzj&type=default" width="356" alt="Gihan Bandara's Dev Card"/></a>
 </div>
 
-<p><img align="ledt" src="https://github-readme-streak-stats.herokuapp.com/?user=gihan1329&" alt="gihan1329" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gihan1329&" alt="gihan1329" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gihan1329&show_icons=true&locale=en" alt="gihan1329" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gihan1329" alt="gihan1329" /></a> </p>
