@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React , JavaScript , React-Native**
+- 🌱 I’m currently learning **NExt.js , React , React-Native**
 
 - 📝 I regularly write articles on <a href ='https://medium.com/@gihanbandara999'>Click Here</a>
 
