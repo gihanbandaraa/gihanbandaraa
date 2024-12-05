@@ -54,6 +54,12 @@
 
 ---
 
+## Daily Dev
+
+<div align="center">  <a href="https://app.daily.dev/gihanpasi"><img src="https://api.daily.dev/devcards/v2/96vpVOkr4fgXW2ifNeWiu.png?r=yzj&type=default" width="356" alt="Gihan Bandara's Dev Card"/></a> </div>
+
+---
+
 ## Achievements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
